@@ -3,6 +3,5 @@
 int main(){
     int age;
     scanf("%d",&age);
-    printf("Age%d",age);
-    
+    printf("Age%d",age);    
 }
