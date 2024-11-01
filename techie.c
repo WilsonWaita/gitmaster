@@ -4,5 +4,5 @@ int main(){
     int age;
     scanf("%d",&age);
     printf("Age%d",age); 
-    retunn 0;   
+  
 }
